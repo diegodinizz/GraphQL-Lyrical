@@ -1,3 +1,7 @@
+body {
+  padding: 20px 60px;
+}
+
 .collection-item {
   display: flex;
   justify-content: space-between;
@@ -11,4 +15,10 @@
 .vote-box {
   display: flex;
   align-items: center;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 100px;
+  font-size: 48px;
 }
