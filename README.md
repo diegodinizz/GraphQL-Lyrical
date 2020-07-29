@@ -1,3 +1,3 @@
-# Lyrical-GraphQL
+# Create Lyrics - GraphQL
 
-In this React project, I've created a Lyrics Creation application to demonstrate the use of GraphQL. Also, I've tested deploying on GitHub Pages. Check it out:
+Create Lyrics is a collaborative songwriting application using React, Express, Webpack, MongoDB, Apollo Client and GraphQL for queries. The application allows you to create multiple songs and add lyrics to them; users can give likes to individual lines. All songs, lyrics and likes are then stored on the MongoDB database.
